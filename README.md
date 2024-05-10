@@ -32,7 +32,7 @@ Nous voulons stocker ces tickets dans une base postgresql, et constituer une bas
 
 **Consignes :**
 
- - il faut utiliser node.js, typescript et postgresql
+ - il faut utiliser (node.js, typescript ou Go) et (postgresql ou Mongo)
  - il est possible d'utiliser n'importe quoi d'autre qui serait utile
  - il n'est pas nécessaire de faire des tests unitaires
  - il n'est pas nécessaire de gérer l'authentification, les droits, les utilisateurs
